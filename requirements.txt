@@ -5,7 +5,7 @@ pypasser
 names
 colorama
 curl_cffi
-streamlit==1.21.0
+streamlit
 selenium
 fake-useragent
 twocaptcha
@@ -16,3 +16,4 @@ Levenshtein
 retrying
 mailgw_temporary_email
 pycryptodome
+random-password-generator
